@@ -1,2 +1,2 @@
 # PHP
-Almacén de mis proyectos hechos con php
+Proyectos con HTML, CSS, Bootstrap, Mysql, php, Apache
